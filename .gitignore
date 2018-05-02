@@ -1,0 +1,10 @@
+
+node_modules
+public
+coverage
+.DS_Store
+doc
+debug
+.vscode
+
+
