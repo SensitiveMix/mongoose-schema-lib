@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-schema-lib",
+  "version": "1.0.0",
+  "description": "full interation for schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SensitiveMix/mongoose-schema-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SensitiveMix/mongoose-schema-lib/issues"
+  },
+  "homepage": "https://github.com/SensitiveMix/mongoose-schema-lib#readme"
+}
